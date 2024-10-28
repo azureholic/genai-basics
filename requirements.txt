@@ -1,0 +1,7 @@
+python-dotenv
+openai
+langchain-community
+playwright 
+html2text
+pymongo
+
